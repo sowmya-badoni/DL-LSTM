@@ -28,8 +28,8 @@ Train the model over multiple epochs, tracking loss.
 Evaluate model accuracy, plot loss curves, and visualize predictions on a sample.
 
 ## PROGRAM
-### Name: Mohammed Saajid S
-### Register Number: 212223240093
+### Name: SOWMYA BADONI
+### Register Number: 212223230211
 
 ```python
 import pandas as pd
